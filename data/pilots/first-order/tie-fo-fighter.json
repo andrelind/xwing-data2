@@ -66,7 +66,8 @@
       "limited": 1,
       "cost": 200,
       "xws": "longshot",
-      "ability": "While you perform a primary attack at attack range 3, roll 1 additional attack die."
+      "ability": "While you perform a primary attack at attack range 3, roll 1 additional attack die.",
+      "slots": []
     },
     {
       "name": "\"Midnight\"",
@@ -75,7 +76,8 @@
       "limited": 1,
       "cost": 200,
       "xws": "midnight",
-      "ability": "While you defend or perform an attack, if you have a lock on the enemy ship, that ship's dice cannot be modified."
+      "ability": "While you defend or perform an attack, if you have a lock on the enemy ship, that ship's dice cannot be modified.",
+      "slots": []
     },
     {
       "name": "\"Muse\"",
@@ -84,7 +86,8 @@
       "limited": 1,
       "cost": 200,
       "xws": "muse",
-      "ability": "At that start of the Engagement Phase, you may choose a friendly ship at range 0-1. If you do, that ship removes 1 stress token."
+      "ability": "At that start of the Engagement Phase, you may choose a friendly ship at range 0-1. If you do, that ship removes 1 stress token.",
+      "slots": []
     },
     {
       "name": "Commander Malarus",
@@ -93,7 +96,8 @@
       "limited": 1,
       "cost": 200,
       "xws": "commandermalarus",
-      "ability": "At the start of the Engagement Phase, you may spend 1 [Charge] and gain 1 stress token. If you do, until the end of the round, while you defend or perform an a... may change all of your [Focus] re... [Hit] results."
+      "ability": "At the start of the Engagement Phase, you may spend 1 [Charge] and gain 1 stress token. If you do, until the end of the round, while you defend or perform an a... may change all of your [Focus] re... [Hit] results.",
+      "slots": []
     },
     {
       "name": "Lieutenant Rivas",
@@ -102,7 +106,8 @@
       "limited": 1,
       "cost": 200,
       "xws": "lieutenantrivas",
-      "ability": "After a ship at range 1-2 gains a red or orange token, if you do not have that..."
+      "ability": "After a ship at range 1-2 gains a red or orange token, if you do not have that...",
+      "slots": []
     },
     {
       "name": "TN-3465",
@@ -110,7 +115,8 @@
       "initiative": 0,
       "limited": 1,
       "cost": 200,
-      "xws": "tn3465"
+      "xws": "tn3465",
+      "slots": []
     }
   ]
 }

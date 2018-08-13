@@ -62,7 +62,8 @@
       "shipAbility": {
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Joph Seastriker",
@@ -75,7 +76,8 @@
       "shipAbility": {
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Karé Kun",
@@ -88,7 +90,8 @@
       "shipAbility": {
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Lieutenand Bastian",
@@ -101,7 +104,8 @@
       "shipAbility": {
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Nien Nunb",
@@ -114,7 +118,8 @@
       "shipAbility": {
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Poe Dameron",
@@ -127,7 +132,8 @@
       "shipAbility": {
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
-      }
+      },
+      "slots": []
     }
   ]
 }

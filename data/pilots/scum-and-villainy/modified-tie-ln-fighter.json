@@ -55,7 +55,8 @@
       "shipAbility": {
         "name": "Notched Stabilizers",
         "text": "While you move, you ignore asteroids."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Captain Seevor",
@@ -72,7 +73,8 @@
       "shipAbility": {
         "name": "Notched Stabilizers",
         "text": "While you move, you ignore asteroids."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Foreman Proach",
@@ -85,7 +87,8 @@
       "shipAbility": {
         "name": "Notched Stabilizers",
         "text": "While you move, you ignore asteroids."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Mining Guild Surveyor",
@@ -97,7 +100,8 @@
       "shipAbility": {
         "name": "Notched Stabilizers",
         "text": "While you move, you ignore asteroids."
-      }
+      },
+      "slots": []
     },
     {
       "name": "Overseer Yushyn",
@@ -110,7 +114,8 @@
       "shipAbility": {
         "name": "Notched Stabilizers",
         "text": "While you move, you ignore asteroids."
-      }
+      },
+      "slots": []
     }
   ]
 }

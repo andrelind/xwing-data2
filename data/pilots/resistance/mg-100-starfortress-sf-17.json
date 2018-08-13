@@ -35,7 +35,8 @@
       "initiative": 3,
       "limited": 1,
       "cost": 200,
-      "xws": "benteene"
+      "xws": "benteene",
+      "slots": []
     },
     {
       "name": "Finch Dallow",
@@ -43,7 +44,9 @@
       "initiative": 0,
       "limited": 1,
       "cost": 200,
-      "xws": "finchdallow"
+      "xws": "finchdallow",
+      "slots": []
     }
-  ]
+  ],
+  "actions": []
 }

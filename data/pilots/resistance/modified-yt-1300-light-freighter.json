@@ -38,7 +38,8 @@
       "initiative": 4,
       "limited": 1,
       "cost": 200,
-      "xws": "chewbacca-modifiedyt1300lightfreighter"
+      "xws": "chewbacca-modifiedyt1300lightfreighter",
+      "slots": []
     },
     {
       "name": "Han Solo",
@@ -46,14 +47,17 @@
       "initiative": 6,
       "limited": 1,
       "cost": 200,
-      "xws": "hansolo-modifiedyt1300lightfreighter-resistance"
+      "xws": "hansolo-modifiedyt1300lightfreighter-resistance",
+      "slots": []
     },
     {
       "name": "Rey",
       "initiative": 0,
       "limited": 1,
       "cost": 200,
-      "xws": "rey"
+      "xws": "rey",
+      "slots": []
     }
-  ]
+  ],
+  "actions": []
 }
